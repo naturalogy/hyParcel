@@ -1,0 +1,16 @@
+{
+  "name": "hyParcel",
+  "version": "1.0.0",
+  "description": "A minimum boilerplate for Hyperapp + Babel + Parcel.",
+  "author": "naturalogy",
+  "homepage": "https://github.com/naturalogy/hyParcel",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "hyperapp": "^1.2.5",
+    "parcel-bundler": "^1.7.0"
+  }
+}
